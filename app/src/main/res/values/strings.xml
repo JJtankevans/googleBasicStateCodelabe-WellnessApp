@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BasicStateCodelab</string>
     <string name="water_counter_text">Você tomou %d copos</string>
+    <string name="water_counter_btn_text">Adicionar um</string>
 </resources>
